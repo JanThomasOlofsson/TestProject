@@ -1,2 +1,2 @@
-# matlab1
+# TestProject
 First matlab GIT repositiry
